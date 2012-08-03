@@ -228,7 +228,7 @@ public class WebDAVClient {
 				jResource.put("creationDate", creationdate);
 				jResource.put("lastModified", lastmodified);
 				
-				jResource.put("isfolder", !isfolder);
+				jResource.put("isFolder", isfolder);
 				
 				if (isfolder == false) {	
 					
