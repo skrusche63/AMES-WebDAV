@@ -4,7 +4,7 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
 	<classpathentry kind="lib" path="lib/commons-codec-1.2.jar"/>
 	<classpathentry kind="lib" path="lib/commons-httpclient-3.0.jar"/>
-	<classpathentry kind="lib" path="lib/jackrabbit-webdav-2.3.3.jar"/>
+	<classpathentry kind="lib" path="lib/jackrabbit-webdav-2.3.3.jar" sourcepath="C:/Users/peter/.m2/repository/org/apache/jackrabbit/jackrabbit-webdav/2.3.3/jackrabbit-webdav-2.3.3-sources.jar"/>
 	<classpathentry kind="lib" path="lib/jcl-over-slf4j-1.6.4.jar"/>
 	<classpathentry kind="lib" path="lib/json.jar"/>
 	<classpathentry kind="lib" path="lib/servlet-api-2.3.jar"/>
